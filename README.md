@@ -7,8 +7,8 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=35eb9a&center=true&vCenter=true&width=500&lines=Ricing+Desktop;Automating+Life+with+Python;Crafting+Private+Tools;Debugging+Code" alt="Typing SVG" />
-</a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&pause=1000&color=35eb9a&center=true&vCenter=true&width=500&lines=Ricing+Desktop;Automating+Life+with+Python;Crafting+Private+Tools;Debugging+Code" alt="Typing SVG" />
+  </a>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 I am a Computer Science & Engineering student passionate about low-level systems, open-source software, and building tools that matter. I'm exploring AI and Cybersecurity.
 
-- 🔭 **I’m currently working on:** Let keep it secret ( because there is nothing )   **.
+- 🔭 **I’m currently working on:** Let's keep it a secret... (mostly because there is nothing yet 🤫).
 - 🤝 **Community:** Core Team Member of the college **FOSS Community**.
 - ⚡ **Fun fact:** I spend more time ricing my desktop environment than actually using it.
 
@@ -41,6 +41,7 @@ I am a Computer Science & Engineering student passionate about low-level systems
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   
   <br/>
+
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Piper_TTS-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
