@@ -69,5 +69,5 @@ I am a Computer Science & Engineering student passionate about low-level systems
 
 ---
 <div align="center">
-  <i>"The true logic of this world is in the calculus of probabilities."</i>
+  <i>" Building answers where instructions never existed. "</i>
 </div>
