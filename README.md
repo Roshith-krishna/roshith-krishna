@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hello%20World&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20am%20Roshith%20Krishna&descAlignY=60&descAlign=50" alt="Header" />
 
-  ### 👨‍💻 CSE Student | 🐧 Linux Enthusiast | 🔓 FOSS Core Team
+  ### 👨‍💻 CSE Student | 🐧 Linux Enthusiast | 🔓 FOSS Member
   
   <br/>
 
