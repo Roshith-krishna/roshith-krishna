@@ -56,7 +56,6 @@ I am a Computer Science & Engineering student passionate about low-level systems
   <img src="https://github-readme-stats.vercel.app/api?username=roshith-krishna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshith-krishna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="languages" />
 </div>
-
 <br/>
 
 ### 🎧 Let's Connect
